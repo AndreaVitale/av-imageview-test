@@ -1,28 +1,6 @@
 <Alloy>
 	<Window class="container">
 		<TableView>
-			<Require src="/rows/test"></Require>
-			<Require src="/rows/test"></Require>
-			<Require src="/rows/test"></Require>
-			<Require src="/rows/test"></Require>
-			<Require src="/rows/test"></Require>
-			<Require src="/rows/test"></Require>
-			<Require src="/rows/test"></Require>
-			<TableViewRow>
-				<CardView height="400">
-					<ImageView module="av.imageview" id="Image" image="https://picsum.photos/800/600?v=1"></ImageView>
-				</CardView>
-			</TableViewRow>
-			<TableViewRow>
-				<CardView height="400">
-					<ImageView module="av.imageview" id="Image" image="https://picsum.photos/800/600?v=2"></ImageView>
-				</CardView>
-			</TableViewRow>
-			<TableViewRow>
-				<CardView height="400">
-					<ImageView module="av.imageview" id="Image" image="https://picsum.photos/800/600?v=3"></ImageView>
-				</CardView>
-			</TableViewRow>
 			<FooterView>
 				<View height="16"></View>
 			</FooterView>

@@ -3,5 +3,5 @@
 buildUserInterface();
 
 function buildUserInterface() {
-    $.Image.image = `https://picsum.photos/800/600?v=${Math.random()*100}`;
+    // Ti.API.info($.args.image);
 }
