@@ -1,0 +1,12 @@
+"CardView": {
+    top: 16,
+    left: 16,
+    right: 16,
+    height: 300
+}
+
+"#Image": {
+	contentMode: Alloy.Globals.Constants.ContentModes.FILL,
+	backgroundColor: 'green',
+	defaultImage: '/appicon.png'
+}

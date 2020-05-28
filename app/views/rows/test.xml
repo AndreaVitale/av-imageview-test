@@ -1,0 +1,7 @@
+<Alloy>
+	<TableViewRow>
+		<CardView height="400">
+			<ImageView module="av.imageview" id="Image"></ImageView>
+		</CardView>
+	</TableViewRow>
+</Alloy>
