@@ -3,5 +3,5 @@
 buildUserInterface();
 
 function buildUserInterface() {
-    // Ti.API.info($.args.image);
+    Ti.API.info($.args.image);
 }

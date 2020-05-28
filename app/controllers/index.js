@@ -13,6 +13,10 @@ function setup() {
 
 	// It doesn't work
 	setTimeout(() => {
+		for (let i = 0; i < 40; i++) {
+			source[i] = `https://picsum.photos/800/600?v=${Math.random()*100 + i}`;
+		}
+
 		populateTableWithData(source);
 	}, 5000);
 
